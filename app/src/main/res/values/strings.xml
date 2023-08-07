@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zclone</string>
+    <string name="_100_green_deliveries">100% Green Deliveries</string>
+    <string name="zomato">Zomato</string>
+    <string name="carbon_and_plastic_neutral_xa_in_india">Carbon and Plastic Neutral \nin India</string>
+    <string name="globe_image">globe_image</string>
+    <string name="tree_iamge">tree_iamge</string>
+    <string name="tree_image">tree_image</string>
+    <string name="tree_image1">tree_image</string>
+    <string name="india_s_1_food_delivery_and_dining_app">India\'s #1 Food Delivery and Dining App</string>
+    <string name="zomato_home_logo">zomato_home_logo</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="log_in_or_sign_up">------Log in or Sign Up---------</string>
+    <string name="by_continuing_you_agree_to_our">By continuing, you agree to our</string>
+    <string name="terms_of_service_privacy_policy_content_policies">Terms of Service Privacy Policy Content Policies</string>
+    <string name="or">--------------- or ------------------</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

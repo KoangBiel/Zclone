@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/delivery"
+        android:title="Delivery"
+        android:icon="@drawable/baseline_delivery_dining_24"
+
+        />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dining"
+        android:title="Dining"
+        android:icon="@drawable/baseline_lunch_dining_24"
+
+        />
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/money"
+        android:icon="@drawable/baseline_wallet_24"
+        android:title="Money" />
+</menu>
