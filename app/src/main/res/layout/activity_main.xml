@@ -23,6 +23,7 @@
         android:layout_height="253dp"
         android:background="#ff3131"
         android:contentDescription="@string/zomato_home_logo"
+        android:scaleType="fitXY"
 
         app:srcCompat="@drawable/zomatopic" />
 
